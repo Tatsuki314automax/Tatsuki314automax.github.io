@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>math formula（数学公式）</title>
+    <meta name = "description" content="sumple text text text">
+    <link rel="stylesheet" href="./math formula.css">
+</head>
+<body>
+    <h1>math formula list（数学公式一覧）<p>出典:<a href="https://www.youtube.com/playlist?list=PLXLYRHroknjhSgbK-LnRCns7GxUrNsKuw">高校数学トライ動画</a></p></h1>
+    <p1>(1) power law（指数法則）（a&ne;0,e&ne;0）（<sub>m,n</sub><0）</p1>
+    <p>1.a<sup>ᵐ</sup>a<sup>ⁿ</sup>=a<sup>ᵐ⁺ⁿ</sup></p>
+    <p>2.<math><mfrac><mrow><mi>aᵐ</mi></mrow><mn>aⁿ</mn></mfrac></math>=a<sup>m-n</sup></p>
+    <p>3.(a<sup>ᵐ</sup>)<sup>ⁿ</sup>=a<sup>ᵐⁿ</sup>=(a<sup>ˢ</sup>)<sup>ʳ</sup></p>
+    <p>4.(ae)<sup>ⁿ</sup>=a<sup>ⁿ</sup>e<sup>ⁿ</sup></p>
+    <p1>(2) Formula for calculating n-th root（n乗根計算公式）（a,e>0）（<sub>m,n</sub>&#x2208;N）&#8592; Nは自然数の集合</p1>
+    <p>1.<sup>ₙ</sup><math><msqrt><mi>a</mi></msqrt></math><sup>ₙ</sup><math><msqrt><mi>e</mi></msqrt></math>=<sup>ₙ</sup><math><msqrt><mi>ae</mi></msqrt></math></p>
+    <p>2.<sup>ₙ</sup><math><msqrt><mi>a</mi></msqrt></math>/<sup>ₙ</sup><math><msqrt><mi>e</mi></msqrt></math>=<sup>ₙ</sup><math><msqrt><mi>a/e</mi></msqrt></math></p>
+    <p>3.(<sup>ₙ</sup><math><msqrt><mi>a</mi></msqrt></math>)<sup>m</sup>=<sup>ₙ</sup><math><msqrt><mi>a</mi></msqrt></math><sup>ₘ</sup></p>
+    <p>4.r<sup>ₙ</sup><math><msqrt><mi>a</mi></msqrt></math>±s<sup>ₙ</sup><math><msqrt><mi>a</mi></msqrt></math>=(r±s)<sup>ₙ</sup><math><msqrt><mi>a</mi></msqrt></math></p>
+    <p>5.(<sup>ₙ</sup><math><msqrt><mi>a</mi></msqrt></math>)<sup>ⁿ</sup>=<sup>ₙ</sup><math><msqrt><mi>a</mi></msqrt></math><sup>ₙ</sup>=a</p>
+    <p1>(3) logarithm calculation formula（対数計算公式）（a>0/{1}）（M,N<0）</p1>
+    <p>1.<msub><mi>log</mi><sub>a</sub></msub><mi>M</mi>+<msub><mi>log</mi><sub>a</sub></msub><mi>N</mi>=<msub><mi>log</mi><sub>a</sub></msub><mi>MN</mi></p>
+    <p>2.<msub><mi>log</mi><sub>a</sub></msub><mi>M</mi>-<msub><mi>log</mi><sub>a</sub></msub><mi>N</mi>=<msub><mi>log</mi><sub>a</sub></msub><math><mfrac><mrow><mi>M</mi></mrow><mn>N</mn></mfrac></math></p>
+    <p>3.<msub><mi>log</mi><sub>a</sub></msub>M<sup>p</sup>=P<msub><mi>log</mi><sub>a</sub></msub>M(P &#x2208; R / {定数以外}) &#8592; Rは実数の集合記号</p>
+    <p>4.<msub><mi>log</mi><sub>a</sub></msub>e=<math><mfrac><mrow><mi>logₓe</mi></mrow><mn>logₓa</mn></mfrac></math>(e>0,x>0/{1})</p>
+    <p>5.<msub><mi>log</mi><sub>a</sub></msub>MN=<msub><mi>log</mi><sub>a</sub></msub>M+<msub><mi>log</mi><sub>a</sub></msub>N</p>
+    <p>6.<msub><mi>log</mi><sub>a</sub></msub><math><mfrac><mrow><mi>M</mi></mrow><mn>N</mn></mfrac></math>=<msub><mi>log</mi><sub>a</sub></msub>M-<msub><mi>log</mi><sub>a</sub></msub>N</p>
+    <p>7.a<sup><msub><mi>log</mi><sub>a</sub></msub>q</sup>=q</p>
+    <p1>(4) double angle formula（2倍角の公式）</p1>
+    <p>1.sin2&theta;=2sin&theta;cos&theta;</p>
+    <p>2.cos2&theta;=cos<sup>²</sup>&theta;-sin<sup>²</sup>&theta;=(1-sin<sup>²</sup>&theta;)-(1-cos<sup>²</sup>&theta;)</p>
+    <p>3.cos2&theta;=2cos<sup>²</sup>&theta;-1</p>
+    <p>4.cos2&theta;=1-2sin<sup>²</sup>&theta;</p>
+    <p>5.tan2&theta;=<math><mfrac><mrow><mi>2tan&theta;</mi></mrow><mn>1-tan²&theta;</mn></mfrac></math></p>
+    <p1>(5) half-width formula（半角の公式）</p1>
+    <p>1.cos&theta;=2cos<sup>²</sup><math><mfrac><mrow><mi>&theta;</mi></mrow><mn>2</mn></mfrac></math>-1</p>
+    <p>2.cos&theta;=1-2sin<sup>²</sup><math><mfrac><mrow><mi>&theta;</mi></mrow><mn>2</mn></mfrac></math></p>
+    <p1>(6) sigma calculation formula（&Sigma;の計算公式）</p1>
+    <p>1.（等差）<math><munderover><mi>&Sigma;</mi><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></munderover><msub><mi>{a₁+(k-1)d}</mi></msub></math>=<math><mfrac><mrow><mi>n</mi></mrow><mn>2</mn></mfrac></math>(a<sub>1</sub>+a<sub>n</sub>)</p>
+    <p>2.（等比）<math><munderover><mi>&Sigma;</mi><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></munderover><msub><mi>a₁rᵏ⁻¹</mi></msub></math>=a₁・<math><mfrac><mrow><mi>1-rⁿ</mi></mrow><mn>1-r</mn></mfrac></math>（r&ne;1）</p>
+    <p>3.<math><munderover><mi>&Sigma;</mi><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></munderover><msub><mi>c</mi></msub></math>=c+...+c=nc（cは定数）</p>
+    <p>4.<math><munderover><mi>&Sigma;</mi><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></munderover><msub><mi>k</mi></msub></math>=1+2+...+n=<math><mfrac><mrow><mi>n(n+1)</mi></mrow><mn>2</mn></mfrac></math></p>
+    <p>5.<math><munderover><mi>&Sigma;</mi><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></munderover><msub><mi>k²</mi></msub></math>=1<sup>²</sup>+2<sup>²</sup>+...+n<sup>²</sup>=<math><mfrac><mrow><mi>n(n+1)(2n+1)</mi></mrow><mn>6</mn></mfrac></math></p>
+    <p>6.<math><munderover><mi>&Sigma;</mi><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></munderover><msub><mi>(ak²+bk+c)</mi></msub></math>=a<math><munderover><mi>&Sigma;</mi><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></munderover><msub><mi>k²</mi></msub></math>+b<math><munderover><mi>&Sigma;</mi><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></munderover><msub><mi>k</mi></msub></math>+<math><munderover><mi>&Sigma;</mi><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></munderover><msub><mi>c</mi></msub></math></p>
+    <p1>(7) midpoint formula（中点公式）</p1>
+    <p><math><mover><mi>OM</mi><mo>→</mo></mover></math>=<math><mover><mi>OA</mi><mo>→</mo></mover></math>+<math><mover><mi>OB</mi><mo>→</mo></mover></math> /2</p>
+    <p1>(8) emphasis formula（重点公式）</p1>
+    <p><math><mover><mi>OG</mi><mo>→</mo></mover></math>=<math><mover><mi>OA</mi><mo>→</mo></mover></math>+<math><mover><mi>OB</mi><mo>→</mo></mover></math>+<math><mover><mi>OC</mi><mo>→</mo></mover></math> /3</p>
+    <p1>(9) dot product of space vectors（空間ベクトル内積）{<math><mover><mi>a</mi><mo>→</mo></mover></math>=(x,y,z),<math><mover><mi>b</mi><mo>→</mo></mover></math>=(x<sub>₂</sub>,y<sub>₂</sub>,z<sub>₂</sub>)}</p1>
+    <p><math><mover><mi>a</mi><mo>→</mo></mover></math>・<math><mover><mi>b</mi><mo>→</mo></mover></math>=x<sub>₁</sub>x<sub>₁</sub>+y<sub>₁</sub>y<sub>₂</sub>+z<sub>₁</sub>z<sub>₂</sub></p>
+    <p1>(10) vector calculation formula（ベクトル計算公式）</p1>
+    <p>1.<math><mover><mi>a</mi><mo>→</mo></mover></math>+<math><mover><mi>b</mi><mo>→</mo></mover></math>=<math><mover><mi>b</mi><mo>→</mo></mover></math>+<math><mover><mi>a</mi><mo>→</mo></mover></math>（交換法則）</p>
+    <p>2.(<math><mover><mi>a</mi><mo>→</mo></mover></math>+<math><mover><mi>b</mi><mo>→</mo></mover></math>)+<math><mover><mi>c</mi><mo>→</mo></mover></math>=<math><mover><mi>a</mi><mo>→</mo></mover></math>+(<math><mover><mi>b</mi><mo>→</mo></mover></math>+<math><mover><mi>c</mi><mo>→</mo></mover></math>)=<math><mover><mi>a</mi><mo>→</mo></mover></math>+<math><mover><mi>b</mi><mo>→</mo></mover></math>+<math><mover><mi>c</mi><mo>→</mo></mover></math>（結合法則）</p>
+    <p>3.<math><mover><mi>a</mi><mo>→</mo></mover></math>+<math><mover><mi>0</mi><mo>→</mo></mover></math>=<math><mover><mi>a</mi><mo>→</mo></mover></math></p>
+    <p>4.<math><mover><mi>a</mi><mo>→</mo></mover></math>-<math><mover><mi>a</mi><mo>→</mo></mover></math>=<math><mover><mi>0</mi><mo>→</mo></mover></math></p>
+    <p>5.k(<math><mover><mi>a</mi><mo>→</mo></mover></math>+<math><mover><mi>b</mi><mo>→</mo></mover></math>)=k<math><mover><mi>a</mi><mo>→</mo></mover></math>+k<math><mover><mi>b</mi><mo>→</mo></mover></math>（分配法則）</p>
+    <p>6.k(x<math><mover><mi>a</mi><mo>→</mo></mover></math>)=x(k<math><mover><mi>a</mi><mo>→</mo></mover></math>)=kx<math><mover><mi>a</mi><mo>→</mo></mover></math>(k,x∈R)(結合法則) &larr; Rは実数の集合</p>
+    <p>7.0・<math><mover><mi>a</mi><mo>→</mo></mover></math>=<math><mover><mi>0</mi><mo>→</mo></mover></math></p>
+    <p>8.(-1)<math><mover><mi>a</mi><mo>→</mo></mover></math>=-<math><mover><mi>a</mi><mo>→</mo></mover></math></p>
+    <p1>これ以降は<math><mover><mi>a</mi><mo>→</mo></mover></math>=(x<sub>₁</sub>,y<sub>₁</sub>),<math><mover><mi>b</mi><mo>→</mo></mover></math>=(x<sub>₂</sub>,y<sub>₂</sub>)とする。</p1>
+    <p>9.<math><mover><mi>a</mi><mo>→</mo></mover></math>+<math><mover><mi>b</mi><mo>→</mo></mover></math>=(x<sub>₁</sub>+x<sub>₂</sub>,y<sub>₁</sub>+y<sub>₂</sub>)</p>
+    <p>10.<math><mover><mi>a</mi><mo>→</mo></mover></math>-<math><mover><mi>b</mi><mo>→</mo></mover></math>=(x<sub>₁</sub>-x<sub>₂</sub>,y<sub>₁</sub>-y<sub>₂</sub>)</p>
+    <p>11.k<math><mover><mi>a</mi><mo>→</mo></mover></math>=(kx<sub>₁</sub>,ky<sub>₁</sub>)</p>
+    <p>12.|<math><mover><mi>a</mi><mo>→</mo></mover></math>|=<math><msqrt><mi>x₁²+y₁²</mi></msqrt></math></p>
+    <p1>(11) calculation formula for inner product（内積計算公式）</p1>
+    <p>1.<math><mover><mi>a</mi><mo>→</mo></mover></math>・<math><mover><mi>a</mi><mo>→</mo></mover></math>=|<math><mover><mi>a</mi><mo>→</mo></mover></math>|<sup>²</sup></p>
+    <p>2.<math><mover><mi>a</mi><mo>→</mo></mover></math>・<math><mover><mi>b</mi><mo>→</mo></mover></math>=<math><mover><mi>b</mi><mo>→</mo></mover></math>・<math><mover><mi>a</mi><mo>→</mo></mover></math>（交換法則）</p>
+    <p>3.<math><mover><mi>a</mi><mo>→</mo></mover></math>・(<math><mover><mi>b</mi><mo>→</mo></mover></math>・<math><mover><mi>c</mi><mo>→</mo></mover></math>)=<math><mover><mi>a</mi><mo>→</mo></mover></math>・<math><mover><mi>b</mi><mo>→</mo></mover></math>+<math><mover><mi>a</mi><mo>→</mo></mover></math>・<math><mover><mi>c</mi><mo>→</mo></mover></math>（分配法則）</p>
+    <p>4.(j<math><mover><mi>a</mi><mo>→</mo></mover></math>)・(k<math><mover><mi>b</mi><mo>→</mo></mover></math>)=jk<math><mover><mi>a</mi><mo>→</mo></mover></math>・<math><mover><mi>b</mi><mo>→</mo></mover></math>(j,k ∈ R) &larr; Rは実数の集合</p>
+    <p1>(12) equinox formula（分点公式）</p1>
+    <p><math><mover><mi>OP</mi><mo>→</mo></mover></math>=n<math><mover><mi>OA</mi><mo>→</mo></mover></math>+m<math><mover><mi>OB</mi><mo>→</mo></mover></math>/m+n</p>
+    <p1>(13) complex number calculation formula（複素数計算公式）</p1>
+    <p>1.(a+bi)±(c+di)=(a±c)+(b±d)i</p>
+    <p>2.(a+bi)(c+di)=ac+(ad+bc)i+bdi<sup>²</sup>=(ac-bd)+(ad+bc)i</p>
+    <p>3.(a+bi)(a-bi)=a<sup>²</sup>-b<sup>²</sup>i<sup>²</sup>=a<sup>²</sup>+b<sup>²</sup>(a,b ∈ R) &larr; Rは実数の集合</p>
+    <p>4.<math><msqrt><mi>-a</mi></msqrt></math>=<math><msqrt><mi>ai²</mi></msqrt></math>=<math><msqrt><mi>a</mi></msqrt></math>i</p>
+    <p1>(14) formula for calculating point coordinates（点の座標の計算公式）(k ∈ R) &larr; Rは実数の集合</p1>
+    <P>1.A±B=(x<sub>₁</sub>,y<sub>₁</sub>)±(x<sub>₂</sub>,y<sub>₂</sub>)=(x<sub>₁</sub>±x<sub>₂</sub>,y<sub>₁</sub>±y<sub>₂</sub>)</P>
+    <p>2.kA=k(x<sub>₁</sub>,y<sub>₁</sub>)=(kx<sub>₁</sub>,ky<sub>₁</sub>)</p>
+    <p1>(15) recurrence formula calculation formula（漸化式計算公式）</p1>
+    <p>1.a<sub>n+1</sub>=a<sub>n</sub>+d(dは定数)（等差数列）</p>
+    <p>2.a<sub>n+1</sub>=ra<sub>n</sub>(rは定数)（等比数列）</p>
+    <p>3.a<sub>n</sub>=a<sub>₁</sub>+<math><munderover><mi>&Sigma;</mi><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>n-1</mi></munderover><msub><mi>bₖ</mi></msub></math>(n≧2)</p>
+    <p>4.a<sub>n+1</sub>-α=P(a<sub>n</sub>-α)(α=<math><mfrac><mrow><mi>g</mi></mrow><mn>1-P</mn></mfrac></math>)(a<sub>n+1</sub>=Pa<sub>n</sub>+g)</p>
+    <p1>(16) conjugate complex number calculation formula（共役複素数計算公式）(a,b ∈ C), (k ∈ R) &larr; Cは複素数の集合, Rは実数の集合</p1>
+    <p>1.<math><msubsup><mo></mo><mn>a±b</mn><mi>_____</mi></msubsup></math><sub>=</sub><math><msubsup><mo></mo><mn>a</mn><mi>__</mi></msubsup></math><sub>±</sub><math><msubsup><mo></mo><mn>b</mn><mi>__</mi></msubsup></math></p>
+    <p>2.<math><msubsup><mo></mo><mn>ka</mn><mi>___</mi></msubsup></math><sub>=k</sub><math><msubsup><mo></mo><mn>a</mn><mi>__</mi></msubsup></math></p>
+    <p>3.<math><msubsup><mo></mo><mn>ab</mn><mi>___</mi></msubsup></math><sub>=</sub><math><msubsup><mo></mo><mn>a</mn><mi>__</mi></msubsup></math><sub>・</sub><math><msubsup><mo></mo><mn>b</mn><mi>__</mi></msubsup></math></p>
+    <p>4.<math><msubsup><mo></mo><mn>(a/b)</mn><mi>______</mi></msubsup></math><sub>=</sub><math><msubsup><mo></mo><mn>a</mn><mi>__</mi></msubsup></math><sub>/</sub><math><msubsup><mo></mo><mn>b</mn><mi>__</mi></msubsup></math></p>
+    <p1>(17) absolute value calculation formula（絶対値計算公式）</p1>
+    <p>1.|ab|=|a|・|b|</p>
+    <p>2.|<math><mfrac><mrow><mi>a</mi></mrow><mn>b</mn></mfrac></math>|=<math><mfrac><mrow><mi>|a|</mi></mrow><mn>|b|</mn></mfrac></math></p>
+    <p1>(18) limit calculation formula（極限計算公式）(<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder><mi></math>a<sub>n</sub>=b,<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder></math>e<sub>n</sub>=c) &larr; 定数</p1>
+    <p>1.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder><mfrac><mn>1</mn><mi>n</mi></mfrac><mo>=</mo><mn>0</mn></math></p>
+    <p>2.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder></math>n=∞</p>
+    <p>3.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder><mfrac><mn>-1</mn><mi>n</mi></mfrac><mo>=</mo><mn>0</mn></math></p>
+    <p>4.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder></math>(-n)=-∞</p>
+    <p>5.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder></math>ka<sub>n</sub>=kb(kは定数)</p>
+    <p>6.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder></math>(a<sub>n</sub>±e<sub>n</sub>)=b±c</p>
+    <p>7.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder></math>a<sub>n</sub>e<sub>n</sub>=bc</p>
+    <p>8.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder><mfrac><mn>aₙ</mn><mi>eₙ</mi></mfrac></math>=<mfrac><mn>b</mn><mi>c</mi></mfrac>(c ≠ 0)</p>
+    <p>9.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>-∞</mi></mrow></munder><mfrac><mn>1</mn><mi>n</mi></mfrac><mo>=</mo><mn>0</mn></math></p>
+    <p>10.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder><mfrac><mn>1</mn><mi>n²</mi></mfrac><mo>=</mo><mn>0</mn></math></p>
+    <p>11.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>-∞</mi></mrow></munder><mfrac><mn>1</mn><mi>n²</mi></mfrac><mo>=</mo><mn>0</mn></math></p>
+    <p>12.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder></math>a<sup>x</sup>=∞(a > 1)</p>
+    <p>13.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>-∞</mi></mrow></munder></math>a<sup>x</sup>=0(a > 1)</p>
+    <p>14.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder></math>a<sup>x</sup>=0(0 < a < 1)</p>
+    <p>15.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>-∞</mi></mrow></munder></math>a<sup>x</sup>=∞(0 < a < 1)</p>
+    <p>16.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder></math>log<sub>a</sub>x=∞(a > 1)</p>
+    <p>17.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>+0</mi></mrow></munder></math>log<sub>a</sub>x=-∞(a > 1)</p>
+    <p>18.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder></math>log<sub>a</sub>x=-∞(0 < a < 1)</p>
+    <p>19.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>+0</mi></mrow></munder></math>log<sub>a</sub>x=∞(0 < a < 1)</p>
+    <p>20.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>0</mi></mrow></munder><mfrac><mn>sinx</mn><mi>x</mi></mfrac></math>=1</p>
+    <p>21.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>0</mi></mrow></munder></math><sup>ˣ</sup><math><msqrt><mi>1+x</mi></msqrt></math>=e, <math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>±∞</mi></mrow></munder></math>(1+<math><mfrac><mn>1</mn><mi>x</mi></mfrac></math>)<sup>x</sup>=e</p>
+    <p1>(19) differential calculation formula（微分計算公式）</p1>
+    <p>1.{kf(x)}'=kf'(x) (kは定数)</p>
+    <p>2.{f(x)±g(x)}'=f'(x)±g'(x) (複合同順)</p>
+    <p>3.{f(x)g(x)}'=f'(x)g(x)+f(x)g'(x)</p>
+    <p>4.(c)'=0(cは定数)</p>
+    <p>5.(x<sup>n</sup>)'=nx<sup>n-1</sup>(n ∈ R) &larr; Rは実数の集合</p>
+    <p>6.{<math><mfrac><mn>f(x)</mn><mi>g(x)</mi></mfrac></math>}=<math><mfrac><mn>f'(x)g(x)-f(x)g'(x)</mn><mi>{g(x)}²</mi></mfrac></math></p>
+    <p>7.y=sinx &rarr; y'=cosx</p>
+    <p>8.y=cosx &rarr; y'=-sinx</p>
+    <p>9.y=tanx &rarr; y'=<math><mfrac><mn>1</mn><mi>cos²x</mi></mfrac></math></p>
+    <p>10.y=e<sup>x</sup> &rarr; y'=e<sup>x</sup>(無変化)</p>
+    <p>11.y=logx(x > 0) &rarr; y'=<math><mfrac><mn>1</mn><mi>x</mi></mfrac></math></p>
+    <p>12.y=log|x|(x ≠ 0) &rarr; y'=<math><mfrac><mn>1</mn><mi>x</mi></mfrac></math></p>
+    <p>13.y=a<sup>x</sup> &rarr; y'=a<sup>x</sup>loga(a > 0, a ≠ 1, a ≠ e)</p>
+    <p>14.y=f{g(x)} &rarr; y'=f'{g(x)}・g'(x)</p>
+    <p>15.y=<math><msqrt><mi>x</mi></msqrt></math> &rarr; y'=<math><mfrac><mn>1</mn><mi>2√x</mi></mfrac></math></p>
+    <p>16.{logf(x)}'=<math><mfrac><mn>f'(x)</mn><mi>f(x)</mi></mfrac></math></p>
+    <p>17.{log|f(x)|}'=<math><mfrac><mn>f'(x)</mn><mi>f(x)</mi></mfrac></math></p>
+    <p>18.{f(ax+b)}'=af'(ax+b)</p>
+    <p1>(20) integral calculation formula（積分計算公式）</p1>
+    <p>1.<math><msubsup><mo>∫</mo></msubsup></math>fx<sup>²</sup>dx=<math><mfrac><mn>xⁿ⁺¹</mn><mi>x+1</mi></mfrac></math>+c(P ≠ 1, cは積分定数)</p>
+    <p>2.<math><msubsup><mo>∫</mo></msubsup></math><math><mfrac><mn>1</mn><mi>x</mi></mfrac></math>dx=log|x|+c(cは積分定数) &larr; <math><msubsup><mo>∫</mo></msubsup></math>x<sup>-1</sup>dxと等しい</p>
+    <p>3.<math><msubsup><mo>∫</mo></msubsup></math>cosxdx=sinx+c(cは積分定数)</p>
+    <p>4.<math><msubsup><mo>∫</mo></msubsup></math>sinxdx=-cosx+c(cは積分定数)</p>
+    <p>5.<math><msubsup><mo>∫</mo></msubsup></math><math><mfrac><mn>1</mn><mi>cos²x</mi></mfrac></math>dx=tanx+c(cは積分定数)</p>
+    <p>6.<math><msubsup><mo>∫</mo></msubsup></math>e<sup>x</sup>dx=e<sup>x</sup>+c(cは積分定数)</p>
+    <p>7.<math><msubsup><mo>∫</mo></msubsup></math>a<sup>x</sup>dx=<math><mfrac><mn>aˣ</mn><mi>loga</mi></mfrac></math>+c(cは積分定数)</p>
+    <p>8.<math><msubsup><mo>∫</mo></msubsup></math><math><mfrac><mn>f'(x)</mn><mi>f(x)</mi></mfrac></math>dx=log|f(x)|+c(cは積分定数)</p>
+    <p>9.<math><msubsup><mo>∫</mo></msubsup></math>cosxdx=sinx+c(cは積分定数)</p>
+    <p>10.<math><msubsup><mo>∫</mo></msubsup></math>sinxdx=-cosx+c(cは積分定数)</p>
+    <p>11.<math><msubsup><mo>∫</mo></msubsup></math><math><mfrac><mn>1</mn><mi>cos²x</mi></mfrac></math>dx=tanx+c(cは積分定数)</p>
+    <p>12.<math><msubsup><mo>∫</mo></msubsup></math>cosmxdx=<math><mfrac><mn>1</mn><mi>m</mi></mfrac></math>sinmx+c(m ∈ Z/{0},cは積分定数)</p>
+    <p>13.<math><msubsup><mo>∫</mo></msubsup></math>sinmxdx=-<math><mfrac><mn>1</mn><mi>m</mi></mfrac></math>cosmx+c(m ∈ Z/{0},cは積分定数)</p>
+    <p>14.<math><msubsup><mo>∫</mo></msubsup></math>cos<sup>²</sup>xdx=<math><mfrac><mn>x</mn><mi>2</mi></mfrac></math>+<math><mfrac><mn>1</mn><mi>4</mi></mfrac></math>sin2x+c(cは積分定数)</p>
+    <p>15.<math><msubsup><mo>∫</mo></msubsup></math>sin<sup>²</sup>xdx=<math><mfrac><mn>x</mn><mi>2</mi></mfrac></math>-<math><mfrac><mn>1</mn><mi>4</mi></mfrac></math>sin2x+c(cは積分定数)</p>
+    <p>16.<math><msubsup><mo>∫</mo></msubsup></math>f(ax+b)dx=<math><msubsup><mo>∫</mo></msubsup></math>f(t)・<math><mfrac><mn>1</mn><mi>a</mi></mfrac></math>dt</p>
+    <p>17.<math><msubsup><mo>∫</mo></msubsup></math>f(x)g(x)dx=F(x)g(x)-<math><msubsup><mo>∫</mo></msubsup></math>F(x)g'(x) {F(x)=<math><msubsup><mo>∫</mo></msubsup></math>f(x)dx}</p>
+    <p>18.<math><mfrac><mn>d</mn><mi>dx</mi></mfrac></math><math><msubsup><mo>∫</mo><mn>a</mn><mi>x</mi></msubsup></math>f(t)dt=f(x)</p>
+    <p>19.<math><msubsup><mo>∫</mo><mn>-a</mn><mi>a</mi></msubsup></math>f(x)dx=2<math><msubsup><mo>∫</mo><mn>0</mn><mi>a</mi></msubsup></math>f(x)dx</p>
+    <p>20.<math><msubsup><mo>∫</mo><mn>-a</mn><mi>a</mi></msubsup></math>f(x)dx=0</p>
+    <p>21.<math><msubsup><mo>∫</mo><mn>a</mn><mi>b</mi></msubsup></math>f(x)g(x)dx=[F(x)g(x)]<math><msubsup><mn>a</mn><mi>b</mi></msubsup></math>-<math><msubsup><mo>∫</mo><mn>a</mn><mi>b</mi></msubsup></math>F(x)g'(x)dx (F(x)=<math><msubsup><mo>∫</mo></msubsup></math>f(x)dx</p>
+    <p>22.<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder></math><math><mfrac><mn>1</mn><mi>n</mi></mfrac></math>{f(<math><mfrac><mn>1</mn><mi>n</mi></mfrac></math>)+f(<math><mfrac><mn>2</mn><mi>n</mi></mfrac></math>)+...+f(<math><mfrac><mn>n</mn><mi>n</mi></mfrac></math>)}=<math><munder><mi>lim</mi><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder></math><math><mfrac><mn>1</mn><mi>n</mi></mfrac></math><math><munderover><mi>&Sigma;</mi><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></munderover><msub><mi>f(</mi></msub></math><math><mfrac><mn>k</mn><mi>n</mi></mfrac></math>)=<math><msubsup><mo>∫</mo><mn>a</mn><mi>b</mi></msubsup></math>f(x)dx (区分求積法)</p>
+</body>
+</html>
